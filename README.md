@@ -1,9 +1,14 @@
 # AI_LHU_Course
 ## AI_LHU_Course
 ### AI_LHU_Course
+#### AI_LHU_Course
+##### AI_LHU_Course
 **Markdown** 
+*__Markdown__*
+~~Markdown~~
+X^2^
+H~2~O
 ---
-
 ~~專案簡介~~
 > **提示：** readme.md
 ---
